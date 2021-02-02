@@ -62,7 +62,7 @@ namespace Ucak_Bileti_Satan_Otomasyon
             //{
             //    MessageBox.Show("Hata! " + err.Message, "Hata Oluştu", MessageBoxButtons.OK, MessageBoxIcon.Error);
             //}
-           
+            int a, b, v;
 
         }
 
